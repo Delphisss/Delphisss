@@ -8,7 +8,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact<br>📖I'm learning C++ , JS is coming....
+📖I'm learning C++ , JS is coming....
 
 
 ## 🌐 Socials:
