@@ -1,6 +1,3 @@
-<h1 align="center"> Hi 👋, I'm Delpihs</h1>
-<h3 align="center">A Computer engineer student from Thailand</h3>
-
 # Hello World 🌏 
 
 ![commisstion 5](https://www.wallpaperup.com/uploads/wallpapers/2013/03/29/66349/6395258b0ba2e07db6249d5ee1ac36b2-500.jpg)
